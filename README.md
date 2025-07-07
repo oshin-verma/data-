@@ -17,4 +17,3 @@ Netflix Content Strategy Analysis
  Conducted in-depth **EDA** on Netflix dataset (2023).  
  Analyzed trends by **language, genre, time**, and **content type**.  
  Created visualizations to support Netflix’s content strategy planning.  
-
